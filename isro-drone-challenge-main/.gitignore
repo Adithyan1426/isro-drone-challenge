@@ -1,0 +1,8 @@
+build/
+install/
+log/
+px4_msgs/
+roscon-25-workshop/
+control_test/
+my_py_pkg/
+.vscode/
